@@ -2,7 +2,8 @@
 
 As a web developer who has over 10 years in the web development industry covering all aspects of frontend and backend, I offer the brains for both. I am a versatile individual who has an excellent track record of bringing results for both small and mid-sized businesses; the type of results that help increase customer inquiries, orders, and revenue.
 
-- 🌱 I’m specialized with React, Vue, Node, Nest.JS, Jest, etc.. (JS & TS)
+- 🌱 I’m specialized with React, Next.JS, Vue, Node, Nest.JS, Jest, etc.. (JS & TS)
+- 📱 I have good experience with Meteor and React Native for Hybird application development. 
 - 📫 How to reach me : rareramos@outlook.ph
 
 <!---
